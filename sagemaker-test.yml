@@ -1,0 +1,6 @@
+name: sagemaker-test
+
+dependencies:
+  - python
+  - boto3
+  - matplotlib
