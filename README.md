@@ -26,8 +26,9 @@
 ## Reproducibility
 
 - Environment is created using conda. However, the environment file does not work properly cross-platform. Therefore we recommend using the sagemaker-test.yml file to create the conda environment which will resolve the required dependencies by itsel given the main required libraries and modules:
+    - python
     - boto3
-    - opencv
+    - matplotlib
 
 - Create the environment using the yaml file:
 
