@@ -1,7 +1,12 @@
 # Lab of Cloud Fundamentals AWS Sagemaker
 
-#### Student: Alfredo Andres Vargas Paredes
-#### Rnumber: r0835034
+- This is a showcase of two Machine Learning Models provided by AWS:
+    1. Rekognition
+        - For face detection.
+
+    2. Polly
+        - For Text to Speech translation.
+
 
 ## Using Amazon Rekognition
 
